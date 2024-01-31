@@ -1,5 +1,3 @@
-![MasterHead](https://raw.githubusercontent.com/mosh3eb/Portfolio_Page/main/images/bg.gif)
-
 <p align="center">
   <b>Hi there! 👋 I'm Animesh Nepal</b>
 </p>
