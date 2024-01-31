@@ -1,9 +1,4 @@
-<p align="center">
-  <b>Hi there! 👋 I'm Animesh Nepal</b>
-</p>
-
-## 🦖 About Me
-I'm a passionate backend developer with a knack for building robust and scalable applications. My expertise lies in using cutting-edge technologies to craft seamless backend solutions.
+Hi there! 👋 I'm Animesh Nepal. I'm a passionate backend developer with a knack for building robust and scalable applications. My expertise lies in using cutting-edge technologies to craft seamless backend solutions.
 
 ## 💻 Technologies & Stacks
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -18,9 +13,9 @@ I'm a passionate backend developer with a knack for building robust and scalable
 🏎️ Exploring the world of microservices architecture with Docker and RabbitMQ.
 
 ## 🌱 What I'm Learning
-🌿 Always expanding my knowledge in Python and JavaScript ecosystems.
-🌿 Delving deeper into the intricacies of microservices design and implementation.
-🌿 Exploring new tools and technologies to stay at the forefront of the industry.
+🦖 Always expanding my knowledge in Python and JavaScript ecosystems.
+🦖 Delving deeper into the intricacies of microservices design and implementation.
+🦖 Exploring new tools and technologies to stay at the forefront of the industry.
   
   ## 🤝 Let's Connect!
 🦢 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aneemes/)
