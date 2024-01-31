@@ -17,9 +17,9 @@ Hi there! 👋 I'm Animesh Nepal. I'm a passionate backend developer with a knac
 🦖 Delving deeper into the intricacies of microservices design and implementation.
 🦖 Exploring new tools and technologies to stay at the forefront of the industry.
   
-  ## 🤝 Let's Connect!
-🦢 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aneemes/)
-🦢 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aneemes1@gmail.com)
+  ## 🦢 Let's Connect!
+ [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aneemes/)
+ [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aneemes1@gmail.com)
 
 
 ## 🎉 Fun Facts
